@@ -44,7 +44,7 @@ class Header extends Component {
         style={{ height: window.innerHeight - 100, display: "block" }}
       >
         <a
-          href='https://github.com/codefellows/cra-template-react-portfolio'
+          href='https://github.com/jeremy-cleland'
           target='_blank'
           rel='noreferrer'
           className='github-corner'
@@ -56,7 +56,7 @@ class Header extends Component {
             viewBox='0 0 250 250'
             style={{
               fill: "#151513",
-              color: "#fff",
+              color: "#323232",
               position: "absolute",
               top: 0,
               border: 0,
@@ -107,7 +107,7 @@ class Header extends Component {
               uncheckedIcon={
                 <span
                   className='iconify'
-                  data-icon='twemoji:owl'
+                  data-icon='noto-v1:crescent-moon'
                   data-inline='false'
                   style={{
                     display: "block",
@@ -122,7 +122,7 @@ class Header extends Component {
               checkedIcon={
                 <span
                   className='iconify'
-                  data-icon='noto-v1:sun-with-face'
+                  data-icon='noto-v1:sun'
                   data-inline='false'
                   style={{
                     display: "block",
