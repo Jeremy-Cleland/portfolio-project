@@ -1,20 +1,22 @@
 {
   "basic_info": {
     "name": "Jeremy Cleland",
-    "titles": ["Software Developer"],
+    "titles": [
+      "Full Stack Software Developer | React | Node | Retired Special Forces Medical Sergeant"
+    ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/jeremy-cleland",
         "class": "fab fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "url": "https://www.linkedin.com/in/jeremy-cleland/",
+        "class": "fab fa-linkedin"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "myProfile.png"
   },
   "skills": {
     "icons": [
