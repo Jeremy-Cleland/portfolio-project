@@ -11,38 +11,35 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Card Travlers",
+      "startDate": "2022",
+      "description": "Card traveling game developed with 4 other students. Exciting project and was a unique expierence. ",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/card-travlers/p1.png",
+        "images/portfolio/card-travlers/p2.png"
       ],
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
+
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Expense Tracker",
+      "startDate": "2022",
+      "description": "Personal project that keeps track of expenses, filters expenses by month aend displays chart. This project was to get familar with React.)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/expense-tracker/p1.png",
+        "images/portfolio/expense-tracker/p2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Jeremy-Cleland/expense-tracker",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,54 +52,54 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Odd Duck",
+      "startDate": "2022",
+      "description": "This app displays three potential products side-by-side-by-side, and the user clicks the image they like for a total of 25 rounds. Upon the completion of 25 rounds a chart is generated displaying how many views & votes each image received.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/odd-duck/p1.png",
+        "images/portfolio/odd-duck/p2.png"
       ],
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
         },
         {
-          "class": "devicon-typescript-plain",
+          "class": "devicon-css3-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Code Fellows",
+      "title": "Front-End Developer Student",
+      "years": "11.2022 - present",
+      "mainTech": ["React"],
       "technologies": [
-        "REST API",
-        "RxJS",
+        "HTML 5",
+        "CSS",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "React",
+        "MongoDB",
+        "Express",
+        "Node",
+        "Rest API"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "United States Army",
+      "title": "Special Forces Medical Sergeant",
+      "years": "09.2008 - 08.2022",
+      "mainTech": [],
+      "technologies": []
     }
   ]
 }
