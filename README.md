@@ -4,12 +4,12 @@
 
 ## Features
 
-Number and name of feature: ******\*\*******\_\_\_\_******\*\*******
+Number and name of feature: Lab 05
 
-Estimate of time needed to complete: **\_**
+Estimate of time needed to complete: 3 hours
 
-Start time: **\_**
+Start time: 8:30
 
-Finish time: **\_**
+Finish time: 11:00
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 2hrs 30 mins
